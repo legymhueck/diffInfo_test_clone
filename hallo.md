@@ -4,3 +4,5 @@ Dies ist ein Repo zum Test-Clonen.
 
 Viele Grüße
 M. Lehnen
+
+PS: Info macht Spaß!
